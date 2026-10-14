@@ -23,6 +23,7 @@ role:       Ethical Hacker | Red Team Operator
 experience: 15+ years
 focus:      Penetration Testing, Red Team Operations
 dev:        Tools & malware development (C, Assembly, Python)
+Extension Courses: Document Examination, Graphology, Drones and UAV
 employer:   Ligga Telecom  # telecommunications, Brazil
 ```
 
