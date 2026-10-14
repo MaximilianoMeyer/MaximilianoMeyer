@@ -1,49 +1,69 @@
-<h1 align="center">Hi 👋, I'm Maximiliano Meyer</h1>
-<h3 align="center">A passionate Father, hacker for Fun... Profit is consequence</h3>
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  MAXIMILIANO MEYER                         [ ROOT / PROFILE ] │
+│  ETHICAL HACKER · RED TEAM · TOOL DEVELOPER                  │
+└──────────────────────────────────────────────────────────────┘
+```
 
-- 🔭 I’m currently working on [Ligga Telecom](https://liggavc.com.br/)
+```bash
+$ whoami
+Maximiliano Meyer
 
-- 🌱 I’m currently learning **Windows Driver Development and Rust**
+$ cat /etc/profile
+Passionate Father | Hacker for fun | Maker
 
-- 👯 I’m looking to collaborate on **Hacking Projects**
+$ cat about.txt
+Brazilian ethical hacker with 15+ years of experience in
+penetration testing and Red Team operations.
 
-- 👨‍💻 All of my projects are available at [https://github.com/MaximilianoMeyer/](https://github.com/MaximilianoMeyer/)
+Tools and malware developer. Passionate about C, Assembly,
+Python, reverse engineering, and offensive security research.
 
-- 📝 I regularly write articles on [https://maximilianomeyer.com.br](https://maximilianomeyer.com.br)
-
-- 💬 Ask me about **Linux, Go, C#, Python**
-
-- 📫 How to reach me **maximilianomeyer1@gmail.com**
-
-- 📄 Know about my experiences [https://maximilianomeyer.com.br/resume.pdf](https://maximilianomeyer.com.br/resume.pdf)
-
-- ⚡ Fun fact **I think I'm Funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/maximilianosmeyer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maximilianosmeyer" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maximilianomeyer&show_icons=true&locale=en&layout=compact" alt="maximilianomeyer" /></p>
-
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/sharmaa-ankur-git/sharmaa-ankur-git/pacman-output/bomberman-contribution-graph-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/sharmaa-ankur-git/sharmaa-ankur-git/pacman-output/bomberman-contribution-graph.svg"
-  />
-  <img
-    alt="Bomberman contribution graph"
-    src="https://raw.githubusercontent.com/sharmaa-ankur-git/sharmaa-ankur-git/pacman-output/bomberman-contribution-graph.svg"
-  />
-</picture>
+Currently working at Ligga Telecom, Brazil.
+```
 
 ---
-[![](https://komarev.com/ghpvc/?username=MaximilianoMeyer&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### `01 // CORE EXPERTISE`
+
+```text
+[ OFFENSIVE SECURITY ]  Penetration Testing · Red Team Operations
+[ DEVELOPMENT        ]  C · C# · Python · Go · Ruby
+[ SYSTEMS            ]  PowerShell · Bash · Assembly
+[ CLOUD              ]  AWS · Azure · GCP
+[ WEB & DATABASES    ]  Burp Suite · Postman · NGINX
+                         PostgreSQL · MySQL
+[ AI / ML            ]  PyTorch · TensorFlow · Artificial Intelligence
+[ OTHER              ]  Mathematics · ERB
+```
+
+### `02 // TOOLCHAIN`
+
+![C](https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=A8B9CC)
+![C#](https://img.shields.io/badge/C%23-111111?style=flat-square&logo=csharp&logoColor=9B75D7)
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=3776AB)
+![Go](https://img.shields.io/badge/Go-111111?style=flat-square&logo=go&logoColor=00ADD8)
+![PowerShell](https://img.shields.io/badge/PowerShell-111111?style=flat-square&logo=powershell&logoColor=5391FE)
+![Bash](https://img.shields.io/badge/Bash-111111?style=flat-square&logo=gnubash&logoColor=4EAA25)
+![AWS](https://img.shields.io/badge/AWS-111111?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-111111?style=flat-square&logo=microsoftazure&logoColor=0078D4)
+![GCP](https://img.shields.io/badge/GCP-111111?style=flat-square&logo=googlecloud&logoColor=4285F4)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-111111?style=flat-square&logo=burpsuite&logoColor=FF6633)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+
+### `03 // CONNECT`
+
+```bash
+$ open --profile
+```
+
+- **Portfolio:** [maximilianomeyer.com.br](https://maximilianomeyer.com.br)
+- **LinkedIn:** [linkedin.com/in/maximilianosmeyer](https://linkedin.com/in/maximilianosmeyer)
+- **Email:** [maximilianomeyer1@gmail.com](mailto:maximilianomeyer1@gmail.com)
+
+```text
+[ SESSION STATUS: ACTIVE ]
+[ END OF PROFILE ]
+```
