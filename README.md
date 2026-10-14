@@ -12,8 +12,20 @@ I'm currently working on Ligga Telecom - Telecom Company in Brazil<br>I'm lookin
 ![](https://streak-stats.demolab.com/?user=MaximilianoMeyer&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=MaximilianoMeyer&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MaximilianoMeyer&theme=synthwave&no-frame=false&no-bg=false&margin-w=4)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/sharmaa-ankur-git/sharmaa-ankur-git/pacman-output/bomberman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/sharmaa-ankur-git/sharmaa-ankur-git/pacman-output/bomberman-contribution-graph.svg"
+  />
+  <img
+    alt="Bomberman contribution graph"
+    src="https://raw.githubusercontent.com/sharmaa-ankur-git/sharmaa-ankur-git/pacman-output/bomberman-contribution-graph.svg"
+  />
+</picture>
 
 ---
 [![](https://komarev.com/ghpvc/?username=MaximilianoMeyer&icon=0&color=0)](https://visitcount.itsvg.in)
