@@ -16,9 +16,7 @@ Passionate Father | Hacker for fun | Maker
 
 ```console
 $ cat about.md
-```
 
-```yaml
 name:       Maximiliano Meyer
 origin:     Brazil 🇧🇷
 role:       Ethical Hacker | Red Team Operator
@@ -35,10 +33,6 @@ employer:   Ligga Telecom  # telecommunications, Brazil
 
 ```console
 $ ls -la /opt/skills
-```
-
-```bash
-#!/usr/bin/env bash
 
 LANGUAGES=("C" "C#" "Python" "Go" "Ruby" "PowerShell" "Bash" "ERB")
 OFFSEC=("BurpSuite" "Postman")
@@ -60,10 +54,7 @@ $ tail -f /var/log/github.stats
 
 ```console
 $ cat contact.conf
-```
 
-```ini
-[contact]
 portfolio = https://maximilianomeyer.com.br
 linkedin  = https://linkedin.com/in/maximilianosmeyer
 email     = maximilianomeyer1@gmail.com
