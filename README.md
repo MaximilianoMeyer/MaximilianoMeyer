@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maximiliano Meyer</h1>
 <h3 align="center">A passionate Father, hacker for Fun... Profit is consequence</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maximilianomeyer&label=Profile%20views&color=0e75b6&style=flat" alt="maximilianomeyer" /> </p>
-
 - 🔭 I’m currently working on [Ligga Telecom](https://liggavc.com.br/)
 
 - 🌱 I’m currently learning **Windows Driver Development and Rust**
