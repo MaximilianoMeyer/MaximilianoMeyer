@@ -29,5 +29,3 @@ I'm currently working on Ligga Telecom - Telecom Company in Brazil<br>I'm lookin
 
 ---
 [![](https://komarev.com/ghpvc/?username=MaximilianoMeyer&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
