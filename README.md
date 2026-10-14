@@ -1,11 +1,9 @@
-```text
+
 ┌──────────────────────────────────────────────────────────────┐
 │  MAXIMILIANO MEYER                         [ ROOT / PROFILE ] │
 │  ETHICAL HACKER · RED TEAM · TOOL DEVELOPER                  │
 └──────────────────────────────────────────────────────────────┘
-```
-
-```bash
+bash
 $ whoami
 Maximiliano Meyer
 
@@ -20,13 +18,12 @@ Tools and malware developer. Passionate about C, Assembly,
 Python, reverse engineering, and offensive security research.
 
 Currently working at Ligga Telecom, Brazil.
-```
 
 ---
 
-### `01 // CORE EXPERTISE`
+### 01 // CORE EXPERTISE
 
-```text
+text
 [ OFFENSIVE SECURITY ]  Penetration Testing · Red Team Operations
 [ DEVELOPMENT        ]  C · C# · Python · Go · Ruby
 [ SYSTEMS            ]  PowerShell · Bash · Assembly
@@ -35,7 +32,6 @@ Currently working at Ligga Telecom, Brazil.
                          PostgreSQL · MySQL
 [ AI / ML            ]  PyTorch · TensorFlow · Artificial Intelligence
 [ OTHER              ]  Mathematics · ERB
-```
 
 ### `02 // TOOLCHAIN`
 
@@ -53,17 +49,16 @@ Currently working at Ligga Telecom, Brazil.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=flat-square&logo=tensorflow&logoColor=FF6F00)
 ![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=flat-square&logo=pytorch&logoColor=EE4C2C)
 
-### `03 // CONNECT`
+### 03 // CONNECT
 
-```bash
+bash
 $ open --profile
-```
+
 
 - **Portfolio:** [maximilianomeyer.com.br](https://maximilianomeyer.com.br)
 - **LinkedIn:** [linkedin.com/in/maximilianosmeyer](https://linkedin.com/in/maximilianosmeyer)
 - **Email:** [maximilianomeyer1@gmail.com](mailto:maximilianomeyer1@gmail.com)
 
-```text
+text
 [ SESSION STATUS: ACTIVE ]
 [ END OF PROFILE ]
-```
