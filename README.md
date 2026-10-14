@@ -71,5 +71,20 @@ Stay curious. Hack ethically.
 $ exit
 ```
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/sharmaa-ankur-git/sharmaa-ankur-git/pacman-output/bomberman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/sharmaa-ankur-git/sharmaa-ankur-git/pacman-output/bomberman-contribution-graph.svg"
+  />
+  <img
+    alt="Bomberman contribution graph"
+    src="https://raw.githubusercontent.com/sharmaa-ankur-git/sharmaa-ankur-git/pacman-output/bomberman-contribution-graph.svg"
+  />
+</picture>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:003b00&height=90&section=footer" width="100%" alt="footer"/> </div>
