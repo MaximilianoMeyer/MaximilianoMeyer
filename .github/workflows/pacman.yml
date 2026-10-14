@@ -1,36 +1,31 @@
-
-name: Generate arcade animation
+name: Generate Bomberman Contribution Graph
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *"
+
   workflow_dispatch:
+
   push:
     branches:
       - main
 
-permissions:
-  contents: write
-
 jobs:
   generate:
+    permissions:
+      contents: write
+
     runs-on: ubuntu-latest
     timeout-minutes: 20
 
     steps:
-      - name: Generate contribution graph
+      - name: Generate Bomberman contribution graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
           games: "bomberman"
 
-      - name: Verify generated files
-        run: |
-          echo "Contents of dist:"
-          ls -lah dist/
-          test -f dist/bomberman-contribution-graph.svg
-
-      - name: Publish contribution graph
+      - name: Push SVGs to pacman-output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: pacman-output
